@@ -62,4 +62,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
