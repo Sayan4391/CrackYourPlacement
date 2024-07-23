@@ -18,6 +18,7 @@
 | [0283-move-zeroes](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0289-game-of-life) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Two Pointers
 |  |
 | ------- |
@@ -41,6 +42,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0169-majority-element) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,4 +84,16 @@
 |  |
 | ------- |
 | [0289-game-of-life](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0289-game-of-life) |
+## Math
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Design
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
