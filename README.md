@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0289-game-of-life) |
 ## Two Pointers
 |  |
 | ------- |
@@ -73,4 +74,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0020-valid-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0289-game-of-life) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
