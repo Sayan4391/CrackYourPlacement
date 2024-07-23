@@ -10,6 +10,7 @@
 | [0011-container-with-most-water](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0055-jump-game](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -42,6 +43,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
@@ -54,6 +56,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0055-jump-game) |
 ## Divide and Conquer
 |  |
 | ------- |
