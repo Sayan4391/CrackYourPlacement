@@ -20,6 +20,7 @@
 | [0289-game-of-life](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0289-game-of-life) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0560-subarray-sum-equals-k](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sayan4391/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,4 +119,9 @@
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Sayan4391/CrackYourPlacement/tree/master/0560-subarray-sum-equals-k) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sayan4391/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Sliding Window
+|  |
+| ------- |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Sayan4391/CrackYourPlacement/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
